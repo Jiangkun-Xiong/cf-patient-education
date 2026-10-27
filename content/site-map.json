@@ -1,0 +1,90 @@
+{
+  "project": "Cystic Fibrosis Patient Education Website",
+  "originalPlatform": "Wix",
+  "originalWebsite": "https://1976076128.wixsite.com/cystic015",
+  "githubStage": "project-overview-and-starter",
+  "plannedPatientSiteBase": "docs/",
+  "note": "plannedPath is relative to docs/ and describes a future rebuilt patient-information site; only docs/index.html currently exists as a project overview.",
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Home",
+      "titleZh": "首页",
+      "originalUrl": "https://1976076128.wixsite.com/cystic015",
+      "plannedPath": "index.html",
+      "summary": "An overview and routes to the main patient information topics.",
+      "summaryZh": "疾病概览与主要信息入口。",
+      "migrationStatus": "planned"
+    },
+    {
+      "slug": "what-is-cf",
+      "title": "What is CF?",
+      "titleZh": "什么是囊性纤维化？",
+      "originalUrl": "https://1976076128.wixsite.com/cystic015/what-is-cf",
+      "plannedPath": "pages/what-is-cf.html",
+      "summary": "An introduction to the condition, genetics and affected body systems.",
+      "summaryZh": "介绍疾病、遗传背景及受影响的身体系统。",
+      "migrationStatus": "planned"
+    },
+    {
+      "slug": "symptoms",
+      "title": "Symptoms",
+      "titleZh": "症状",
+      "originalUrl": "https://1976076128.wixsite.com/cystic015/symptom",
+      "plannedPath": "pages/symptoms.html",
+      "summary": "Information about the symptoms discussed in the coursework.",
+      "summaryZh": "汇集课程网站介绍的疾病症状。",
+      "migrationStatus": "planned"
+    },
+    {
+      "slug": "infection-prevention",
+      "title": "Triggers & infection prevention",
+      "titleZh": "诱因与感染预防",
+      "originalUrl": "https://1976076128.wixsite.com/cystic015/trigger-infection-prevention",
+      "plannedPath": "pages/infection-prevention.html",
+      "summary": "A section on infection risks and prevention.",
+      "summaryZh": "介绍感染风险与预防相关信息。",
+      "migrationStatus": "planned"
+    },
+    {
+      "slug": "managing-cf",
+      "title": "Managing CF",
+      "titleZh": "疾病管理",
+      "originalUrl": "https://1976076128.wixsite.com/cystic015/managing-cf",
+      "plannedPath": "pages/managing-cf.html",
+      "summary": "An overview of care and everyday management.",
+      "summaryZh": "介绍照护与日常管理相关主题。",
+      "migrationStatus": "planned"
+    },
+    {
+      "slug": "when-to-seek-help",
+      "title": "When to seek help",
+      "titleZh": "何时寻求帮助",
+      "originalUrl": "https://1976076128.wixsite.com/cystic015/when-to-seek-help",
+      "plannedPath": "pages/when-to-seek-help.html",
+      "summary": "Information about seeking help from appropriate healthcare services.",
+      "summaryZh": "介绍何时向相应医疗服务寻求帮助。",
+      "migrationStatus": "planned"
+    },
+    {
+      "slug": "living-well",
+      "title": "Living well with CF",
+      "titleZh": "与疾病共处",
+      "originalUrl": "https://1976076128.wixsite.com/cystic015/living-well-with-cf",
+      "plannedPath": "pages/living-well.html",
+      "summary": "Everyday life and sources of support.",
+      "summaryZh": "关注日常生活与支持资源。",
+      "migrationStatus": "planned"
+    },
+    {
+      "slug": "references",
+      "title": "References",
+      "titleZh": "参考文献",
+      "originalUrl": "https://1976076128.wixsite.com/cystic015/reference",
+      "plannedPath": "pages/references.html",
+      "summary": "The original website’s references and information sources.",
+      "summaryZh": "查看原网站的参考文献与信息来源。",
+      "migrationStatus": "planned"
+    }
+  ]
+}
