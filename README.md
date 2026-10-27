@@ -2,7 +2,7 @@
 
 **University of Leicester · Year D · Respiratory Module coursework**
 
-[Visit the original Wix website](https://1976076128.wixsite.com/cystic015/what-is-cf) · [Original homepage](https://1976076128.wixsite.com/cystic015) · [中文说明](README.zh-CN.md) · [Personal portfolio](https://jiangkun-xiong.github.io/#projects)
+[Project overview](https://jiangkun-xiong.github.io/cf-patient-education/) · [Visit the original Wix website](https://1976076128.wixsite.com/cystic015/what-is-cf) · [Original homepage](https://1976076128.wixsite.com/cystic015) · [中文说明](README.zh-CN.md) · [Personal portfolio](https://jiangkun-xiong.github.io/#projects)
 
 A patient information website about cystic fibrosis (CF), originally created with **Wix** during my Year D study in the UK. This repository presents the coursework, preserves its context and organises a gradual transition towards a website built with code and hosted on **GitHub Pages**.
 
@@ -59,7 +59,7 @@ The current `docs/index.html` is a project overview linking to the original Wix 
 | Path | Purpose |
 | --- | --- |
 | [README.zh-CN.md](README.zh-CN.md) | Chinese project introduction |
-| [docs/index.html](docs/index.html) | Working project overview, ready for GitHub Pages |
+| [docs/index.html](docs/index.html) | Published project overview and starter |
 | [docs/assets/css/style.css](docs/assets/css/style.css) | Shared responsive styles |
 | [docs/assets/js/main.js](docs/assets/js/main.js) | English/Chinese display toggle |
 | [content/](content/README.md) | Original page inventory and future content organisation |
@@ -78,7 +78,7 @@ python -m http.server 8000 --directory docs
 
 Then visit `http://localhost:8000`. The starter has no package dependencies or build step.
 
-For GitHub Pages, the prepared publishing source is **main → /docs**. See [the migration guide](planning/migration-guide.md) for the steps. This folder structure is a starting point; GitHub Pages must be enabled in the repository settings before a public project overview URL is available.
+The project overview is published at **[https://jiangkun-xiong.github.io/cf-patient-education/](https://jiangkun-xiong.github.io/cf-patient-education/)**, using **main → /docs** as its GitHub Pages source. Future changes in this folder will update the overview. See [the migration guide](planning/migration-guide.md) for the publishing and rebuild steps.
 
 ## Scope and attribution
 

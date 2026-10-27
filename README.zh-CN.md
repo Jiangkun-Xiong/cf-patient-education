@@ -2,7 +2,7 @@
 
 **莱斯特大学 · Year D 英国学习阶段 · Respiratory Module 课程作业**
 
-[访问 Wix 原站](https://1976076128.wixsite.com/cystic015/what-is-cf) · [原站首页](https://1976076128.wixsite.com/cystic015) · [English README](README.md) · [个人作品集](https://jiangkun-xiong.github.io/#projects)
+[项目介绍页](https://jiangkun-xiong.github.io/cf-patient-education/) · [访问 Wix 原站](https://1976076128.wixsite.com/cystic015/what-is-cf) · [原站首页](https://1976076128.wixsite.com/cystic015) · [English README](README.md) · [个人作品集](https://jiangkun-xiong.github.io/#projects)
 
 这是我在重庆医科大学—莱斯特大学联合培养项目的 **Year D 英国学习阶段（2025–2026 学年）**，为莱斯特大学 **Respiratory Module（呼吸模块）** 制作的囊性纤维化患者信息网站。
 
@@ -64,6 +64,6 @@
 | 本地预览与 GitHub Pages 发布 | [planning/migration-guide.md](planning/migration-guide.md) |
 | 原版网站截图 | [assets/screenshots/](assets/screenshots/README.md) |
 
-直接用浏览器打开 `docs/index.html` 即可预览。当前框架无需安装 npm 依赖。GitHub Pages 的预备发布目录为 `main` 分支下的 `/docs`，需在仓库设置中启用后才有公开网页地址。
+直接用浏览器打开 `docs/index.html` 即可预览。当前框架无需安装 npm 依赖。GitHub Pages 已启用，发布目录为 `main` 分支下的 `/docs`；[项目介绍页](https://jiangkun-xiong.github.io/cf-patient-education/) 可直接访问。
 
 这是一项学生教育课程作品。原站中引用的图片、视频和资料保留各自来源标注。

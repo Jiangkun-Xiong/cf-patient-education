@@ -12,7 +12,7 @@
 - [ ] Add screenshots of the original site to `assets/screenshots/`.
 - [ ] Confirm the official module code and assessment title from the coursework brief.
 - [ ] Collect original images, text drafts and references that can be reused.
-- [ ] Enable GitHub Pages from `main /docs` to publish the project overview.
+- [x] Enable GitHub Pages from `main /docs` to publish the project overview.
 
 ## Stage 3 — Rebuild the first topic page
 
